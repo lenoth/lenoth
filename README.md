@@ -4,4 +4,5 @@ I'm a software developer specializing in frontend development with both ReactJS 
 
 [More about me &rarr;](https://lucaslitton.me/about) <br />
 [My personal website &rarr;](https://lucaslitton.me/) <br />
+[How to build a zoom application in less than an hour &rarr;](https://lucaslitton.me/blog/how-to-build-a-zoom-application-in-less-than-an-hour) <br />
 [@lucaslitton on Twitter &rarr;](https://twitter.com/lucaslitton)
