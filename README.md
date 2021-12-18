@@ -1,3 +1,7 @@
-<p>Hey, I'm Lucas.</p>
+Hey, I’m Brian.
 
-<p>I'm a software developer specializing in front-end with React.JS</p>
+I'm a software developer specializing in frontend development for both ReactJS and React Native. I sometimes dabble into backend with Python and I am a big fan of statistics and analysis. 
+
+[More about me &rarr;](https://lucaslitton.me/about) <br />
+[My personal website](https://lucaslitton.me/) <br />
+[@lucaslitton on Twitter &rarr;](https://twitter.com/lucaslitton)
