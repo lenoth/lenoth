@@ -4,6 +4,4 @@ I'm a software developer specializing in frontend. I live in New Haven, Connecti
 
 I have experience in both development and product design.
 
-[My personal website &rarr;](https://lucaslitton.me/) <br />
-[How to build a zoom application in less than an hour &rarr;](https://lucaslitton.me/blog/how-to-build-a-zoom-application-in-less-than-an-hour) <br />
 [My work experience on LinkedIn &rarr;](https://linkedin.com/in/lucaslitton)
