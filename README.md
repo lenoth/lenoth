@@ -1,6 +1,6 @@
 Hey, I’m Lucas.
 
-I'm a software developer specializing in frontend. I live in Connecticut and I'm currently a software engineer at @PGAHQ.
+I'm a software developer specializing in frontend. I live in Connecticut and I'm currently a software engineer at PGA of America.
 
 I have experience in both development and product design.
 
