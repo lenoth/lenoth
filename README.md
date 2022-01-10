@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucas.
+👋 Hi, I'm Lucas.
 
 I'm a software developer specializing in frontend. I live in Connecticut and I'm currently a software engineer at PGA of America.
 
