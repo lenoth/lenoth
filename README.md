@@ -1,7 +1,9 @@
-### 👋 Hi, I'm Lucas.
+### 👋 Hey There, I'm Lucas.
 
-I'm a software developer currently living in Orlando, FL and I'm a software engineer at [PGA of America](https://pga.com).
+I'm a **software engineer** at **[PGA of America](https://pga.com)** and currently live in Orlando, FL.
 
-I have experience in both development and product design.
+I have experience in both software development and product design.
 
-[My work experience on LinkedIn &rarr;](https://linkedin.com/in/lucaslitton)
+```const favoriteTechnologies = ['JavaScript', 'React.JS', 'Next.js', 'GraphQL', 'Algolia']```
+
+**[My work experience on LinkedIn &rarr;](https://linkedin.com/in/lucaslitton)**
